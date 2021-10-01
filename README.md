@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>MD</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
