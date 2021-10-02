@@ -5,7 +5,7 @@
 <body>
 	<header id="main-header">
 		<div class="container">
-			<h1>Welcome To M And D Brokerage service</h1>
+			<h1>ሀብታሙ ሰገጤው ተነፋ እሺ </h1>
 		</div>
 	</header>
 
