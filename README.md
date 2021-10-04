@@ -5,7 +5,7 @@
 <body>
 	<header id="main-header">
 		<div class="container">
-			<h1>M&D Brokerage Service </h1>
+			<h1>Jimma gebeya Brokerage Service </h1>
 		</div>
 	</header>
 
@@ -36,7 +36,7 @@
 	<div class="container">
 		<section id="main">
 			<h1>Welcome</h1>
-			<p>M&D plat form is the first online brokerage plateform in Jimma initiated and started to give effecient online brokerage service for community. </p>			
+			<p>Jimma Gebeya plat form is the first online brokerage plateform in Jimma initiated and started to give effecient online brokerage service for community. </p>			
 		</section>
 
 		<aside id="sidebar">
@@ -44,7 +44,7 @@
 	    </aside>
     </div>
     <footer id="main-footer">
-    	<p>Copyright &copy; 2021 My Website</p>
+    	<p>Copyright &copy; 2021, Jimma Gebeya</p>
     </footer>
 
 </body>
